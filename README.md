@@ -298,7 +298,7 @@ SELECT CONCAT(UPPER(LEFT(ENAME, 1)), LOWER(SUBSTRING(ENAME, 2)))
 FROM EMPLOYEE;
 Q14. Display length of the string 'hassan mansoori'
 
-SELECT LENGTH('hassan mansoori');
+SELECT LENGTH('arjun rajawat');
 Q15. Display length of each employee name along with EMPNO and ENAME
 
 SELECT LENGTH(ENAME), EMPNO, ENAME
